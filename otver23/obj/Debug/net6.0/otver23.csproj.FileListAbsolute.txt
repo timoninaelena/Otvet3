@@ -1,0 +1,15 @@
+C:\Users\Елена\Documents\GB\lek3\otver23\bin\Debug\net6.0\otver23.exe
+C:\Users\Елена\Documents\GB\lek3\otver23\bin\Debug\net6.0\otver23.deps.json
+C:\Users\Елена\Documents\GB\lek3\otver23\bin\Debug\net6.0\otver23.runtimeconfig.json
+C:\Users\Елена\Documents\GB\lek3\otver23\bin\Debug\net6.0\otver23.dll
+C:\Users\Елена\Documents\GB\lek3\otver23\bin\Debug\net6.0\otver23.pdb
+C:\Users\Елена\Documents\GB\lek3\otver23\obj\Debug\net6.0\otver23.csproj.AssemblyReference.cache
+C:\Users\Елена\Documents\GB\lek3\otver23\obj\Debug\net6.0\otver23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елена\Documents\GB\lek3\otver23\obj\Debug\net6.0\otver23.AssemblyInfoInputs.cache
+C:\Users\Елена\Documents\GB\lek3\otver23\obj\Debug\net6.0\otver23.AssemblyInfo.cs
+C:\Users\Елена\Documents\GB\lek3\otver23\obj\Debug\net6.0\otver23.csproj.CoreCompileInputs.cache
+C:\Users\Елена\Documents\GB\lek3\otver23\obj\Debug\net6.0\otver23.dll
+C:\Users\Елена\Documents\GB\lek3\otver23\obj\Debug\net6.0\refint\otver23.dll
+C:\Users\Елена\Documents\GB\lek3\otver23\obj\Debug\net6.0\otver23.pdb
+C:\Users\Елена\Documents\GB\lek3\otver23\obj\Debug\net6.0\otver23.genruntimeconfig.cache
+C:\Users\Елена\Documents\GB\lek3\otver23\obj\Debug\net6.0\ref\otver23.dll
