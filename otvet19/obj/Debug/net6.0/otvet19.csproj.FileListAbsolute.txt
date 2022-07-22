@@ -1,0 +1,15 @@
+C:\Users\Елена\Documents\GB\lek3\otvet19\obj\Debug\net6.0\otvet19.csproj.AssemblyReference.cache
+C:\Users\Елена\Documents\GB\lek3\otvet19\obj\Debug\net6.0\otvet19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елена\Documents\GB\lek3\otvet19\obj\Debug\net6.0\otvet19.AssemblyInfoInputs.cache
+C:\Users\Елена\Documents\GB\lek3\otvet19\obj\Debug\net6.0\otvet19.AssemblyInfo.cs
+C:\Users\Елена\Documents\GB\lek3\otvet19\obj\Debug\net6.0\otvet19.csproj.CoreCompileInputs.cache
+C:\Users\Елена\Documents\GB\lek3\otvet19\bin\Debug\net6.0\otvet19.exe
+C:\Users\Елена\Documents\GB\lek3\otvet19\bin\Debug\net6.0\otvet19.deps.json
+C:\Users\Елена\Documents\GB\lek3\otvet19\bin\Debug\net6.0\otvet19.runtimeconfig.json
+C:\Users\Елена\Documents\GB\lek3\otvet19\bin\Debug\net6.0\otvet19.dll
+C:\Users\Елена\Documents\GB\lek3\otvet19\bin\Debug\net6.0\otvet19.pdb
+C:\Users\Елена\Documents\GB\lek3\otvet19\obj\Debug\net6.0\otvet19.dll
+C:\Users\Елена\Documents\GB\lek3\otvet19\obj\Debug\net6.0\refint\otvet19.dll
+C:\Users\Елена\Documents\GB\lek3\otvet19\obj\Debug\net6.0\otvet19.pdb
+C:\Users\Елена\Documents\GB\lek3\otvet19\obj\Debug\net6.0\otvet19.genruntimeconfig.cache
+C:\Users\Елена\Documents\GB\lek3\otvet19\obj\Debug\net6.0\ref\otvet19.dll
